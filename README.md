@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on AI, Machine Learning & Generative AI projects<br><br>🤝 I'm looking to collaborate on AI/ML, Open Source, and Web Development projects<br><br>🌱 I'm currently learning Advanced Generative AI, Deep Learning, and Full-Stack Development<br><br>💡 Building intelligent solutions that solve real-world problems<br><br>🎨<br><br>📚 Ask me about Python, Machine Learning, Generative AI, UI/UX Design, and AI Projects<br><br>⚡ Fun fact: I have completed internships in AI, ML, Gen AI, and UI/UX while pursuing my B.Tech in AIML
+🚀 I'm currently working on AI, Machine Learning & Generative AI projects<br><br>🤝 I'm looking to collaborate on AI/ML, Open Source, and Web Development projects<br><br>🌱 I'm currently learning Advanced Generative AI, Deep Learning, and Full-Stack Development<br><br>💡 Building intelligent solutions that solve real-world problems<br><br><br><br>📚 Ask me about Python, Machine Learning, Generative AI, UI/UX Design, and AI Projects<br><br>⚡ Fun fact: I have completed internships in AI, ML, Gen AI, and UI/UX while pursuing my B.Tech in AIML
 
 
 ## 🌐 Socials:
