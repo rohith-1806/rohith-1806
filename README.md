@@ -1,21 +1,215 @@
-# 💫 About Me:
-🚀 I'm currently working on AI, Machine Learning & Generative AI projects<br><br>🤝 I'm looking to collaborate on AI/ML, Open Source, and Web Development projects<br><br>🌱 I'm currently learning Advanced Generative AI, Deep Learning, and Full-Stack Development<br><br>💡 Building intelligent solutions that solve real-world problems<br><br>📚 Ask me about Python, Machine Learning, Generative AI, UI/UX Design, and AI Projects<br><br>⚡ Fun fact: I have completed internships in AI, ML, Gen AI, and UI/UX while pursuing my B.Tech in AIML
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Perumalla%20Rohith&fontSize=55&fontAlign=50&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Explorer&descSize=18"/>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perumalla rohith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohith46181@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real+World+AI+Solutions"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohith-1806&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rohith-1806&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohith-1806&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=rohith-1806&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 👨‍💻 About Me
+
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+Hi 👋, I'm **Perumalla Rohith**
+
+A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** from India 🇮🇳
+
+
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
+
+- 🤖 Working on **AI, ML & Generative AI Projects**
+
+- 🌱 Currently exploring **Deep Learning & Advanced Gen AI**
+
+- 💻 Building **Full Stack Web Applications**
+
+- 🎨 Experience in **UI/UX Designing**
+
+- 🚀 Completed internships in:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - UI/UX Design
+
+- 💬 Ask me about:
+  **Python, AI, ML, React, Web Development**
+
+- ⚡ Goal:
+  **Creating intelligent solutions that solve real-world problems**
+
+
+---
+
+
+# 🌐 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://rohith06-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/My Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/rohith-1806">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="mailto:rohith46181@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</div>
+
+
+---
+
+
+# 🚀 Tech Stack
+
+
+<div align="center">
+
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript"/>
+
+
+## Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+
+
+## Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb"/>
+
+
+## AI / ML Tools
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify"/>
+
+
+</div>
+
+
+---
+
+
+# 🏆 GitHub Achievements
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohith-1806&theme=radical&no-frame=false&no-bg=false&margin-w=10"/>
+
+
+</div>
+
+
+---
+
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohith-1806&show_icons=true&theme=tokyonight"/>
+
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1806&theme=tokyonight"/>
+
+
+<br><br>
+
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-1806&layout=compact&theme=tokyonight"/>
+
+
+</div>
+
+
+---
+
+
+# 📈 Contribution Graph
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-1806&theme=react-dark"/>
+
+
+</div>
+
+
+---
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/rohith-1806/rohith-1806/output/github-contribution-grid-snake.svg">
+
+
+</div>
+
+
+---
+
+
+# ✨ Developer Quote
+
+
+<div align="center">
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+
+<img src="https://komarev.com/ghpvc/?username=rohith-1806&style=for-the-badge&color=blue">
+
+
+<br><br>
+
+
+## ⭐ Thanks For Visiting My Profile ⭐
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+
+</div>
