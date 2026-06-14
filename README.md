@@ -119,11 +119,16 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohith-1806&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohith-1806&show_icons=true&theme=radical&rank_icon=github"/>
+
+
+<br><br>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-1806&theme=github_dark"/>
 
 
 </div>
----
 
 
 # 📊 GitHub Analytics
