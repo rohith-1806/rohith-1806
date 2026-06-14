@@ -107,19 +107,6 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 ---
 
 
-# 🏆 GitHub Achievements
-
-
-
-<br><br>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-1806&theme=github_dark"/>
-
-
-</div>
-
-
 ---
 
 
