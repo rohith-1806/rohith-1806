@@ -33,9 +33,7 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
   - Generative AI
   - UI/UX Design
 
-- 💬 Ask me about:
-  **Python, AI, ML, React, Web Development**
-
+  
 - ⚡ Goal:
   **Creating intelligent solutions that solve real-world problems**
 
