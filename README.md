@@ -110,31 +110,11 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 # 🏆 GitHub Achievements
 
 
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohith-1806&show_icons=true&theme=radical&rank_icon=github"/>
-
 
 <br><br>
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-1806&theme=github_dark"/>
-
-
-</div>
-
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1806&theme=tokyonight"/>
-
-
-<br><br>
 
 
 </div>
