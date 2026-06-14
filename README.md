@@ -27,12 +27,6 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 
 - 🤖 Working on **AI, ML & Generative AI Projects**
 
-- 🌱 Currently exploring **Deep Learning & Advanced Gen AI**
-
-- 💻 Building **Full Stack Web Applications**
-
-- 🎨 Experience in **UI/UX Designing**
-
 - 🚀 Completed internships in:
   - Artificial Intelligence
   - Machine Learning
@@ -137,16 +131,10 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 <div align="center">
 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohith-1806&show_icons=true&theme=tokyonight"/>
-
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1806&theme=tokyonight"/>
 
 
 <br><br>
-
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-1806&layout=compact&theme=tokyonight"/>
 
 
 </div>
