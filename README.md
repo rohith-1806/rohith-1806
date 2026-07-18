@@ -91,17 +91,6 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 
-
-## Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb"/>
-
-
-## AI / ML Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-
 ## Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify"/>
