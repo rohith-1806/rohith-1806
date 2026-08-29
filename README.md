@@ -112,7 +112,7 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-1806&theme=react-dark&hide_border=true"/>
+<img src=["https://github-readme-activity-graph.vercel.app/graph?username=rohith-1806&theme=react-dark&hide_border=true"/>](https://github-readme-streak-stats.herokuapp.com/?user=rohith-1806)
 
 </div>
 
