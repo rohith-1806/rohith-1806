@@ -107,18 +107,6 @@ A passionate **AI & Machine Learning Engineer** and **Full Stack Developer** fro
 ---
 
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-1806&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-
 # 🐍 Contribution Snake
 
 
